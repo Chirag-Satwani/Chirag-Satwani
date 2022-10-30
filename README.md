@@ -1,5 +1,4 @@
-### Hi there 👋 
-My name is Chirag Satwani
+### Hi there 👋 My name is Chirag Satwani
 
 Data Science aspirant | Eager to develop skills in data science | machine learning | A.I.
 
